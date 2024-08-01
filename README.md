@@ -2,8 +2,9 @@
 
 - 💬 Ask me about **Data Science**
 
--🌱 I’m trying to learn Solidity
 - 🌱 I’m trying to learn Solidity
+- 
+- 🤝 I’m looking for help with in building cool developer communities
 
 - 📫 How to reach me **https://www.linkedin.com/in/gayani-vitharana-23a0411b0/**
 
