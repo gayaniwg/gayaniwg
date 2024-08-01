@@ -8,7 +8,7 @@
   
 - 🤝 I’m looking for help with in building cool developer communities
 
-- 📫 How to reach me **https://www.linkedin.com/in/gayani-vitharana-23a0411b0/**
+- 📫 How to reach me **wggayanivitharana@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
