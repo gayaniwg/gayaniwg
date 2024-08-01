@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Gayani Vitharana</h1>
 <h3 align="center">ML, AI & Data Science Enthusiast from Sri Lanka</h3>
 
